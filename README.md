@@ -68,5 +68,5 @@ I tried three different models:
 ## Model performance
 The Random Forest model far outperformed the other approaches on the test and validation sets. 
 *	**Random Forest** : MAE = 51.22
-*	**Linear Regression**: MAE = 69.86
-*	**Lasso Regression**: MAE = 70.67
+*	**Lasso Regression**: MAE = 58.34
+*	**Linear Regression**: MAE = 69.26
