@@ -9,6 +9,7 @@
 **Packages:** pandas, numpy, sklearn, matplotlib, seaborn, selenium 
 **Scraper Github:** https://github.com/arapfaik/scraping-glassdoor-selenium  
 **Scraper Article:** https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905  
+**Guide:** https://www.youtube.com/c/KenJee1
 
 ## Web Scraping
 Tweaked the web scraper github repo (above) to scrape 1000 job postings from glassdoor.com. With each job, we got the following:
