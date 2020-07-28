@@ -49,11 +49,14 @@ I looked at the distributions of the data and the value counts for the various c
 
 ![alt text](https://github.com/sid123github/DS_Salary_Predictor/blob/master/EDA_Images/Jobs_by_Location.PNG "Job Opportunities by State")
 ![alt text](https://github.com/sid123github/DS_Salary_Predictor/blob/master/EDA_Images/top_Companies.PNG "Top Hiring Companies")
+
+* I also build a Word Cloudd from all the Job Description to understand most common requirements
+
 ![alt text](https://github.com/sid123github/DS_Salary_Predictor/blob/master/EDA_Images/WordCloud_JobDescription.PNG "Word Cloud for Job Descriptions")
 
 ## Model Building 
 
-First, I transformed the categorical variables into dummy variables. I also split the data into train and tests sets with a test size of 20%.   
+First, I transformed the categorical variables into dummy variables. I also split the data into train and tests sets with a test size of 33%.   
 
 I tried three different models and evaluated them using Mean Absolute Error. I chose MAE because it is relatively easy to interpret and outliers aren’t particularly bad in for this type of model.   
 
